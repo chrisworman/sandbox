@@ -10,7 +10,9 @@ function handleRequest(request, response){
 }
 
 //Create a server
-var server = http.createServer(handleRequest);
+var server = http.createServer(function(request, response) {
+    response.end('{"this" : 123}');
+});
 
 //Lets start our server
 server.listen(PORT, function(){
