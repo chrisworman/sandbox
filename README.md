@@ -1,3 +1,4 @@
-=sandbox node server=
+Sandbox Node Server
+===================
 
-Sandbox node.js http server.
+`$node server.js`
