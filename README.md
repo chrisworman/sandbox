@@ -1,4 +1,9 @@
 Sandbox Node Server
 ===================
 
-`$node server.js`
+* `$node server.js`
+
+OR
+
+* `$./up.sh`
+* `$./down.sh`
