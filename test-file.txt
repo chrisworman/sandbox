@@ -1,0 +1,9 @@
+This is the begining of the test file.
+
+function f() {}
+
+function g() {}
+
+function h() {}
+
+This is the end of the test file.
