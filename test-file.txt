@@ -16,4 +16,6 @@ function gfSandwich() { return sand + memoriesOfEdibleFood;}
 
 function cwDevelop1() { return 'develop 1'; }
 
+function perogy() { return dough + potato + cheese;}
+
 This is the end of the test file.
