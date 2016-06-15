@@ -12,4 +12,6 @@ function cw() { return 'cw function'; }
 
 function taco() { return tortilla + meat; }
 
+function gfSandwich() { return sand + memoriesOfEdibleFood;}
+
 This is the end of the test file.
