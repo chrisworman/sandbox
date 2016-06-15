@@ -6,4 +6,6 @@ function g() {}
 
 function h() {}
 
+function ginger() {}
+
 This is the end of the test file.
