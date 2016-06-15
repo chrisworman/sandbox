@@ -8,4 +8,6 @@ function h() {}
 
 function ginger() {}
 
+function cw() { return 'cw function'; }
+
 This is the end of the test file.
