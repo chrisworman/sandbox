@@ -8,4 +8,6 @@ function h() {}
 
 function cw() { return 'cw function'; }
 
+function taco() { return tortilla + meat; }
+
 This is the end of the test file.
