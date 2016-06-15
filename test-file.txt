@@ -6,6 +6,8 @@ function g() {}
 
 function h() {}
 
+function ginger() {}
+
 function cw() { return 'cw function'; }
 
 function taco() { return tortilla + meat; }
