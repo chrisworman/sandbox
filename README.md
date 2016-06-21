@@ -13,6 +13,10 @@ OR
 
 stuff
 
+function brisket() {
+	return charred_beef + smoke;
+}
+
 burrito
 
 perogy
