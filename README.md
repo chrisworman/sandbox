@@ -14,11 +14,7 @@ OR
 stuff
 
 function brisket() {
-	return charred_beef + hot peppers + smoke;
-}
-
-function bananaCurry(){
-	return null;
+	return charred_beef + smoke + sauce * 3;
 }
 
 burrito
